@@ -6,9 +6,7 @@ This project is the final project for the Flutter course in the first semester o
 
 ## Demo
 
-![Demo GIF](demo.gif)
-
-*(A placeholder for the demo GIF)*
+https://github.com/user-attachments/assets/fd561be5-f808-4863-9382-d0e60b8675e9
 
 ## Project Structure
 
