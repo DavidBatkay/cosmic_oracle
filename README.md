@@ -1,3 +1,10 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/DavidBatkay/cosmic_oracle?style=flat-square)
+![GitHub total downloads](https://img.shields.io/github/downloads/DavidBatkay/cosmic_oracle/total?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/DavidBatkay/cosmic_oracle?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/DavidBatkay/cosmic_oracle?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/DavidBatkay/cosmic_oracle?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/DavidBatkay/cosmic_oracle?style=flat-square)
+
 # Cosmic Oracle
 
 A cosmic oracle app, helping you make very important decisions.
